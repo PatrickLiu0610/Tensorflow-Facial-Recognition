@@ -23,4 +23,4 @@ Note: pip might throw dependency errors since it automatically upgrades certain 
 ```
 python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 ```
-
+#### Link to Youtube Video if you are interested in following along: https://youtu.be/dTCivI1dsi4
